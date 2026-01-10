@@ -64,3 +64,22 @@ button{
  .operator{
   color:#6dee0a;
  }
+ .owner{
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0px 0px 10px cyan,
+               0px 0px 10px cyan,
+               0px 0px 10px cyan,
+               0px 0px 10px cyan;
+
+ }
+ .workinprogress{
+  color: yellow;
+  text-align: center ;
+   text-shadow: 0px 0px 10px rgb(225, 255, 0),
+               0px 0px 10px rgb(225, 255, 0),
+               0px 0px 10px rgb(225, 255, 0),
+              0px 0px 10px rgb(225, 255, 0);
+
+
+ }
